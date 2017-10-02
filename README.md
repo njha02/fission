@@ -46,7 +46,7 @@ cd public_html/content;
 nano projects.md;
 ```
 
-Lastly, replace the project name, project icon, and project description. You can replace the default icon, i.e. `terminal` with any other icon on [fontawesome.io](http://fontawesome.io/icons/) by replacing the icon name. My `projects.md` looks like this:
+Lastly, replace the project name, website link, project icon, and project description. You can replace the default icon, i.e. `terminal` with any other icon on [fontawesome.io](http://fontawesome.io/icons/) by replacing the icon name. My `projects.md` looks like this:
 
 ```
 The App for Allergens
