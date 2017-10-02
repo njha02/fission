@@ -1,2 +1,2 @@
-# fission
-Project Fission - A website generator
+Blank Template by [Nishant Jha](people.virginia.edu/~nj7kv/) 
+
