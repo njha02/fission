@@ -1,4 +1,4 @@
-filename='init.md'
+filename='details.md'
 while read p; do
     
     TAG=$(echo $p | cut -f1 -d-);
