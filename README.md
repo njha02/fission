@@ -83,5 +83,5 @@ Congratulations! You now have your own personal website! Open it up and check it
 
 Produced by [Nishant Jha][my website].
 
-[my website]: people.virginia.edu/~nj7kv/
+[my website]: https://people.virginia.edu/~nj7kv/
 [Fission (Biology)]: https://en.wikipedia.org/wiki/Fission_(biology)
