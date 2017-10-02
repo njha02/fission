@@ -1,15 +1,21 @@
 filename='details.md'
 
+quoteSubst() {
+    IFS= read -d '' -r < <(sed -e ':a' -e '$!{N;ba' -e '}' -e 's/[&/\]/\\&/g; s/\n/\\&/g' <<<"$1")
+    printf %s "${REPLY%$'\n'}"
+}
+
 cp ./public_html/boilerplate/template/home_template.html ./public_html/boilerplate/home.html;
 
 while read p; do
     
     TAG=$(echo $p | cut -f1 -d-);
     VALUE=$(echo $p | cut -f2 -d-);
-    sed -i -e "s/$TAG/$VALUE/g" public_html/boilerplate/home.html;
+    
+    sed -e ':a' -e '$!{N;ba' -e '}' -e "s/$TAG/$(quoteSubst "$VALUE")/" public_html/boilerplate/home.html > temp.html;
+    mv temp.html public_html/boilerplate/home.html;
 
     ##Don't know why I need to do this
-    rm public_html/boilerplate/*.html-e;
 done < $filename
 
 cd public_html/builders/;
