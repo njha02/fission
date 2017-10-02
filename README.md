@@ -28,12 +28,9 @@ Fill in the form with your own personal details. Here's how that looks on my per
 {EMAIL}-ninjha01@gmail.com  
 ```
 
-After filling in `details.md`, run the `init.sh` and `build.sh` scripts.
+After filling in `details.md`, run the `init.sh` script.
 
-```
-bash init.sh;
-bash build.sh;
-```
+`bash init.sh;`
 
 Next, replace the blank blank profile picture and resume with your own copies.
 
@@ -73,12 +70,16 @@ circle-o-notch
 A project manager written in python; it simplifies submitting pipeline jobs for your samples either on a supercomputing cluster or on your local computer.
 ``` 
 
-Congratulations! You now have your own personal website! Open it up and check it out!
+Run the build.sh script, and you're finished!
 
 ```
-cd ../..;
-open myweb/html/index.html
+cd ../../;
+bash build.sh;
 ```
+
+Congratulations! You now have your own personal website! Open it up and check it out!
+
+`open myweb/html/index.html`
 
 Produced by [Nishant Jha][my website].
 
