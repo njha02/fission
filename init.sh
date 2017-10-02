@@ -14,4 +14,6 @@ while read p; do
     rm public_html/boilerplate/*.html-e;
 done < $filename
 
+cd public_html/builders/;
+make;
 
