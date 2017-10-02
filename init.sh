@@ -12,10 +12,9 @@ while read p; do
     TAG=$(echo $p | cut -f1 -d-);
     VALUE=$(echo $p | cut -f2 -d-);
     
-    sed -e ':a' -e '$!{N;ba' -e '}' -e "s/$TAG/$(quoteSubst "$VALUE")/" public_html/boilerplate/home.html > temp.html;
-    mv temp.html public_html/boilerplate/home.html;
+    sed -e ':a' -e '$!{N;ba' -e '}' -e "s/$TAG/$(quoteSubst "$VALUE")/g" ./public_html/boilerplate/home.html > temp.html;
+    mv temp.html ./public_html/boilerplate/home.html;
 
-    ##Don't know why I need to do this
 done < $filename
 
 cd public_html/builders/;
