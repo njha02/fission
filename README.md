@@ -19,7 +19,7 @@ cd fission;
 nano details.md;
 ```
 
-Fill in the form with your own personal details. Here's how that looks on my personal website:
+Fill in the form with your own personal details. Here's how my personal `details.md`:
 
 ```
 {FIRST}-Nishant  
