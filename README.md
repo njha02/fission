@@ -4,7 +4,9 @@ Project Fission is a personal website creation tool.
 
 ## Quickstart Guide ##
 
-In your command prompt (Terminal.app on macOS) enter the following:
+*Requires a bash shell with `make`, `pandoc`, and `clang` to be installed*
+
+In your bash shell (Terminal.app on macOS) enter the following:
 
 `git clone https://github.com/ninjha01/fission`
 
