@@ -4,7 +4,7 @@ Project Fission is a personal website creation tool.
 
 ## Quickstart Guide ##
 
-*Requires a bash shell with `make`, `pandoc`, and `clang` to be installed*
+*Requires a bash shell with `make` and `clang` to be installed*
 
 In your bash shell (Terminal.app on macOS) enter the following:
 
@@ -82,6 +82,13 @@ bash build.sh;
 Congratulations! You now have your own personal website! Open it up and check it out!
 
 `open myweb/html/index.html`
+
+Thanks to QA testers:
+
+1. Conner Pike
+2. Nancy Lee
+3. Jesse Persily
+4. Samer El-abd
 
 Produced by [Nishant Jha][my website].
 
