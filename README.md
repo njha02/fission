@@ -19,7 +19,7 @@ cd fission;
 nano details.md;
 ```
 
-Fill in the form with your own personal details. Here's how my personal `details.md`:
+Fill in the form with your own personal details. Here's how my personal `details.md` looks:
 
 ```
 {FIRST}-Nishant  
@@ -41,7 +41,7 @@ mv /path/to/profile.jpg myweb/html/images/profile.jpg
 mv /path/to/resume.pdf myweb/html/resume.pdf
 ```
 
-Lastly, navigate to `public_html/content/` and edit your `projects.md` file.
+Next, navigate to `public_html/content/` and edit your `projects.md` file.
 
 ```
 cd public_html/content;
@@ -83,12 +83,6 @@ Congratulations! You now have your own personal website! Open it up and check it
 
 `open myweb/html/index.html`
 
-Thanks to QA testers:
-
-1. Conner Pike
-2. Nancy Lee
-3. Jesse Persily
-4. Samer El-abd
 
 Produced by [Nishant Jha][my website].
 
