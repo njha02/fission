@@ -1,4 +1,4 @@
-# Project [Fission] #
+# Project Fission #
 
 Project Fission is a personal website creation tool. 
 
