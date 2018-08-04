@@ -35,7 +35,7 @@ Projects:
   - $TITLE$: Project Fission
     $URL$: https://github.com/ninjha01/fission
     $ICON$: files-o
-    $BLURB$: Project Fission is a website generator! Simply edit two text files and Fission will create a full-fledged website. It generates easy-to-edit html files so you have full control over your newly minted website.
+    $BLURB$: Project Fission is a website generator! Simply edit 1 text file and Fission will create a full-fledged website. It generates easy-to-edit html files so you have full control over your newly minted website.
   - $TITLE$: Allergen Guru
     $URL$: https://inbio.com/app
     $ICON$: stethoscope
