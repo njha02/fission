@@ -1,8 +1,7 @@
 import os
 import pypandoc
-import pdb
 import yaml
-
+    
 tags = ["{FIRST}", "{LAST}", "{EMAIL}", "{LINKEDIN}", "{TITLE}", "{BIO}"]
 
 def main():
