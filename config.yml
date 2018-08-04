@@ -1,0 +1,16 @@
+Personal:
+  $FIRST$: FIRST
+  $LAST$: LAST
+  $TITLE$: TITLE
+  $BIO$: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta purus ac lorem posuere, in aliquet magna feugiat. Praesent sed pellentesque sapien. Vestibulum sit amet magna fermentum, dignissim turpis vel, fermentum mi. 
+  $LINKEDIN$: https://www.linkedin.com/
+  $EMAIL$: john@doe.com
+Projects:
+  - $TITLE$: Project 1
+    $URL$: http://www.zombo.com/
+    $ICON$: pencil
+    $BLURB$:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta purus ac lorem posuere, in aliquet magna feugiat.
+  - $TITLE$: Project 2
+    $URL$: http://www.zombo.com/
+    $ICON$: pencil
+    $BLURB$: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta purus ac lorem posuere, in aliquet magna feugiat.
