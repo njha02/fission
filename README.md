@@ -4,7 +4,7 @@ Project Fission is a personal website creation tool.
 
 ## Quickstart Guide ##
 
-*Requires `pandoc` and `python` with `pypandoc` and `pyyaml`.
+*Requires `pandoc` and `python` with `pypandoc` and `pyyaml`.*
 
 In your bash shell (Terminal.app on macOS) enter the following:
 
