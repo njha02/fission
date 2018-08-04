@@ -4,13 +4,18 @@ Project Fission is a personal website creation tool.
 
 ## Quickstart Guide ##
 
-*Requires `pandoc` and `python` with `pypandoc` and `pyyaml`.*
+*Requires `pandoc` and `python`.*
 
 In your bash shell (Terminal.app on macOS) enter the following:
 
-`git clone https://github.com/ninjha01/fission`
+```
+git clone https://github.com/ninjha01/fission
+cd ./fission;
+python setup.py
+```
 
-This will create a local copy of the Project Fission code.
+
+This will create a local copy of the Project Fission code and install the required dependencies.
 
 Open and edit the `config.yml` file using an editor of your choice. `nano` is suggested for those who aren't familiar with command-line editors.
 
