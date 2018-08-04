@@ -16,7 +16,7 @@ Open and edit the `config.yml` file using an editor of your choice. `nano` is su
 
 ```
 cd fission;
-nano details.md;
+open config.yml; #alternatively: nano config.yml;
 ```
 
 Fill in the form with your own personal details. You can replace the default icon, i.e. `pencil` with any other icon on [fontawesome.io](http://fontawesome.io/icons/) by replacing the icon name.
