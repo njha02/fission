@@ -1,16 +1,20 @@
 Personal:
-  $FIRST$: John
-  $LAST$: Doe
-  $TITLE$: Professional Placeholder
-  $BIO$: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta purus ac lorem posuere, in aliquet magna feugiat. Praesent sed pellentesque sapien. Vestibulum sit amet magna fermentum, dignissim turpis vel, fermentum mi. 
-  $LINKEDIN$: https://www.linkedin.com/
-  $EMAIL$: john@doe.com
+  $FIRST$: Nalin
+  $LAST$: Jha
+  $TITLE$: Senior at North Cross Highschool
+  $BIO$: I am a high school senior interested in Computer Science, Mathematics, and Chess. I also enjoy playing soccer, basketball, and tennis.
+  $LINKEDIN$: https://www.linkedin.com/in/nalin-j-47371510a/
+  $EMAIL$: njha714@gmail.com
 Projects:
-  - $TITLE$: Project 1
-    $URL$: http://www.zombo.com/
-    $ICON$: pencil
-    $BLURB$:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta purus ac lorem posuere, in aliquet magna feugiat.
-  - $TITLE$: Project 2
-    $URL$: http://www.zombo.com/
-    $ICON$: pencil
-    $BLURB$: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta purus ac lorem posuere, in aliquet magna feugiat.
+  - $TITLE$: Coding Club
+    $URL$: "https://willishallherald.wordpress.com/2018/04/12/coding-competes-uva/"
+    $ICON$: terminal
+    $BLURB$: I founded the Coding Club at my high school. The team I recruited and captained placed 2nd in the Advanced Division of Code Quest in 2018 (Suffolk, VA location).
+  - $TITLE$: Chess 
+    $URL$: http://www.uschess.org/msa/MbrDtlMain.php?16028844
+    $ICON$: trophy
+    $BLURB$: "I am proud member of the Roanoke Chess club and enjoy working with our local National Master Mr. Russell Potter. I have won the following tournaments: 2016 Maggie L. Walker Summer Scholastic, 2016 Star City Challenge 2017 VA Commonwealth Games, 2017 Virginia Closed Amateur State Championship"
+  - $TITLE$: Educational YouTube Channel
+    $URL$: https://www.youtube.com/channel/UCjhlL4txLUhArG0aVXY38Qg
+    $ICON$: youtube-play
+    $BLURB$: "I make YouTube videos covering some of the concepts that I thought would be useful for my fellow high schoolers."
