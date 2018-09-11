@@ -1,0 +1,107 @@
+>
+		<div class="inner">
+		    <!-- Header -->
+		    <header id="header">
+			<a href="index.html" class="logo"><strong>Nalin Jha</strong></a>
+		    </header>
+
+		    <!-- Banner -->
+		    <section id="banner">
+			<div class="content">
+			    <header>
+				<h1>Hi, I’m Nalin!</h1>
+				<p>Senior at North Cross Highschool</p>
+			    </header>
+			    <p>I am a high school senior interested in Computer Science, Mathematics, and Chess. I also enjoy playing soccer, basketball, and tennis.</p>
+			    <a href="https://www.linkedin.com/in/nalin-j-47371510a/"><strong>My LinkedIn</strong></a>
+			    <br></br>
+			    <a href="resume.pdf"><strong>My Resume</strong></a>
+			</div>
+			<span class="image object">
+			    <img src="images/profile.jpg" alt="Profile"/>
+			</span>
+		    </section>
+		    
+		    <!-- Section -->
+		    <section>
+			<header class="major">
+			    <h2>Promo</h2> 
+			</header>
+			<div class="features">      
+			    <p align="left">
+				<iframe width="560" height="315"
+					       src="https://www.youtube.com/embed/weLeMB32W8Q?start=19" frameborder="0"
+					       allow="autoplay; encrypted-media" allowfullscreen>
+				</iframe>
+			    </p>	      
+			</div>
+		    </section>
+
+		    <!-- Section -->
+		    <section>
+			<header class="major">
+			    <h2>Projects</h2> 
+			</header>
+			<div class="features">      
+			    <article>
+				<span class="icon fa-terminal"></span><div class="content"><h3><a href="https://willishallherald.wordpress.com/2018/04/12/coding-competes-uva/">Coding Club</a></h3><p>I founded the Coding Club at my high school. The team I recruited and captained placed 2nd in the Advanced Division of Code Quest in 2018 (Suffolk, VA location).</p></div>
+			    </article>
+			    <article>
+				<span class="icon fa-trophy"></span><div class="content"><h3><a href="http://www.uschess.org/msa/MbrDtlMain.php?16028844">Chess</a></h3><p>I am proud member of the Roanoke Chess club and enjoy working with our local National Master Mr. Russell Potter. I have won the following tournaments: 2016 Maggie L. Walker Summer Scholastic, 2016 Star City Challenge 2017 VA Commonwealth Games, 2017 Virginia Closed Amateur State Championship</p></div>
+			    </article>
+			    <article>
+				<span class="icon fa-youtube-play"></span><div class="content"><h3><a href="https://www.youtube.com/channel/UCjhlL4txLUhArG0aVXY38Qg">Educational YouTube Channel</a></h3><p>I make YouTube videos covering some of the concepts that I thought would be useful for my fellow high schoolers.</p></div>
+			    </article>
+			</div>
+		    </section>
+
+		    <!-- Sidebar -->
+		    <div id="sidebar">
+			<div class="inner">
+			    
+			    <!-- Menu -->
+			    <nav id="menu">
+				<header class="major">
+				    <h2>Menu</h2>
+				</header>
+				<ul>
+				    <li><a href="index.html">Homepage</a></li>
+				    <li>
+					<span class="opener">Projects</span>
+					<ul>
+					    <li><a href="https://willishallherald.wordpress.com/2018/04/12/coding-competes-uva/">Coding Club</a></li>
+					    <li><a href="http://www.uschess.org/msa/MbrDtlMain.php?16028844">Chess</a></li>
+					    <li><a href="https://www.youtube.com/channel/UCjhlL4txLUhArG0aVXY38Qg">Educational YouTube Channel</a></li>
+					</ul>
+				    </li>
+				</ul>
+			    </nav>
+
+			    
+			    <!-- Section -->
+			    <section>
+				<header class="major">
+				    <h2>Get in touch</h2>
+				</header>
+				<p>Didn't find what you need? Have any questions? Feel free to reach out!</p>
+				<ul class="contact">
+				    <li class="fa-envelope-o"><a href="mailto:njha714@gmail.com">njha714@gmail.com</a></li>
+				</ul>
+			    </section>
+
+			    <!-- Footer -->
+			    <footer id="footer">
+				<p class="copyright">&copy; 2017 Nalin Jha | All rights reserved.</p>
+			    </footer>
+			</div>
+		    </div>
+		</div>
+	    </div>
+	    <!-- Scripts -->
+	    <script src="assets/js/jquery.min.js"></script>
+	    <script src="assets/js/skel.min.js"></script>
+	    <script src="assets/js/util.js"></script>
+	    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+	    <script src="assets/js/main.js"></script>
+    </body>
+</html>

@@ -42,7 +42,7 @@ def build_home(p_details, menu_html, home_template):
     
     entry_template = ( '<article>\n<span class="icon fa-$ICON$"></span>'
                          '<div class="content">'
-                         '<h3><a href=$URL$>$TITLE$</a></h3>'
+                         '<h3><a href="$URL$">$TITLE$</a></h3>'
                          '<p>$BLURB$</p></div>\n</article>' )
     
     # Process Projects
