@@ -1,0 +1,7 @@
+README.md
+setup.py
+Fission.egg-info/PKG-INFO
+Fission.egg-info/SOURCES.txt
+Fission.egg-info/dependency_links.txt
+Fission.egg-info/requires.txt
+Fission.egg-info/top_level.txt
