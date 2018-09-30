@@ -9,9 +9,9 @@ Project Fission is a personal website creation tool.
 In your bash shell (Terminal.app on macOS) enter the following:
 
 ```
-git clone https://github.com/njha02/njha02.github.io.git
-cd ./njha02.github.io
-python setup.py install
+git clone https://github.com/njha02/njha02.github.io.git;
+cd ./njha02.github.io;
+python setup.py install;
 ```
 
 
@@ -50,16 +50,25 @@ After filling in `config.yml`, run the `build.py` script.
 
 `python build.py`
 
-Lastly, replace the blank profile picture and resume with your own copies.
+Next, replace the blank profile picture and resume with your own copies.
 
 ```
-mv /path/to/profile.jpg ./images/profile.jpg
-mv /path/to/resume.pdf ./resume.pdf
+mv /path/to/profile.jpg ./images/profile.jpg;
+mv /path/to/resume.pdf ./resume.pdf;
 ``` 
+
+Finally, push your changes to the repository to publish them!
+
+```
+git add -A;
+git commit -m "Type your commit message here";
+git push;
+```
+
 
 Congratulations! You now have your own personal website! Open it up and check it out!
 
-`open index.html`
+`open index.html;`
 
 Produced by [Nishant Jha][my website].
 
