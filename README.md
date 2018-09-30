@@ -9,8 +9,8 @@ Project Fission is a personal website creation tool.
 In your bash shell (Terminal.app on macOS) enter the following:
 
 ```
-git clone https://github.com/ninjha01/fission
-cd ./fission;
+git clone https://github.com/njha02.github.io
+cd ./njha02.github.io
 python setup.py
 ```
 
@@ -26,7 +26,7 @@ open config.yml; #alternatively: nano config.yml;
 
 Fill in the form with your own personal details. You can replace the default icon, i.e. `pencil` with any other icon on [fontawesome.io](http://fontawesome.io/icons/) by replacing the icon name.
 
-Here's how my personal `yaml.config` looks:
+Here's how my personal `config.yml` looks:
 
 ```
 Personal:
@@ -47,7 +47,7 @@ Projects:
     $BLURB$: Allergen Guru is an Android and iOS containing structural information on allergens listed on the WHO/IUIS Allergen nomenclature database, along with 3D structures and unique search features, which will make Guru an essential tool for allergen researchers.
 ```
 
-After filling in `yaml.config`, run the `build.py` script.
+After filling in `config.yml`, run the `build.py` script.
 
 `python build.py`
 
