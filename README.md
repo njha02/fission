@@ -20,7 +20,6 @@ This will create a local copy of the Project Fission code and install the requir
 Open and edit the `config.yml` file using an editor of your choice. `nano` is suggested for those who aren't familiar with command-line editors.
 
 ```
-cd fission;
 open config.yml; #alternatively: nano config.yml;
 ```
 
