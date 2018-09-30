@@ -11,7 +11,7 @@ In your bash shell (Terminal.app on macOS) enter the following:
 ```
 git clone https://github.com/njha02.github.io
 cd ./njha02.github.io
-python setup.py
+python setup.py install
 ```
 
 
