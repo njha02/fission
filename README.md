@@ -9,7 +9,7 @@ Project Fission is a personal website creation tool.
 In your bash shell (Terminal.app on macOS) enter the following:
 
 ```
-git clone https://github.com/njha02.github.io
+git clone https://github.com/njha02/njha02.github.io.git
 cd ./njha02.github.io
 python setup.py install
 ```
