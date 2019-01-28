@@ -8,7 +8,7 @@ Personal:
 Projects:
   - $TITLE$: Coding Club
     $URL$: "https://willishallherald.wordpress.com/2018/04/12/coding-competes-uva/"
-    $ICON$: terminal
+    $ICON$: code
     $BLURB$: I founded the Coding Club at my high school. The team I recruited and captained placed 2nd in the Advanced Division of Code Quest in 2018 (Suffolk, VA location).
   - $TITLE$: Chess 
     $URL$: http://www.uschess.org/msa/MbrDtlMain.php?16028844
@@ -20,9 +20,17 @@ Projects:
     $BLURB$: "I make YouTube videos covering some of the concepts that I thought would be useful for my fellow high schoolers."
   - $TITLE$: Robotics Club
     $URL$: https://www.youtube.com/watch?v=Ny3k8LFInko&feature=youtu.be
-    $ICON$: youtube-play
-    $BLURB$: "I am the lead programmer of my school's robotics team. I use the Java programming language to integrate sensor data with robotic motion."
-  - $TITLE$: Varsity Soccer
-    $URL$: https://youtu.be/4FGkuLeSXlU?t=3972
-    $ICON$: youtube-play
-    $BLURB$: "I have played on my school's varisty soccer team since 9th grade. In my senior year, I started in the state championship game and helped my team win the title. The video shows the walkout of the players in the starting lineup. I am #8.
+    $ICON$: android
+    $BLURB$: I am the lead programmer of my school's robotics team. I use the Java programming language to integrate sensor data with robotic motion. In 2018, my team placed 5th overall and was seeded 4th in the semifinals playoffs. In 2019, we placed 4th overall and managed to secure a 3rd place seeding in the playoffs (https://www.instagram.com/p/Bs81bj_lKZT/).
+  - $TITLE$: Hour of Code
+    $URL$: https://www.instagram.com/p/BqufhPJF0w7/
+    $ICON$: laptop-code
+    $BLURB$: My school chooses one week during the winter to celebrate Computer Science Education Week. This year, I was introduced by the faculty as the local computer expert. I had the opportunity to be on stage during school assembly and guide the headmaster through his first hour of coding.
+  - $TITLE$: Varsity Soccer State Championship
+    $URL$: https://www.instagram.com/p/BqAS_Q0F7yD/
+    $ICON$: futbol
+    $BLURB$: I have played on my school's varisty soccer team since 9th grade. In my senior year, I started in the state championship game and helped my team win the title. This video shows the walkout of the players in the starting lineup. I am wearing jersey #8: https://www.youtube.com/watch?v=4FGkuLeSXlU&feature=youtu.be&t=3970
+  - $TITLE$: Varsity Tennis
+    $URL$: http://www.maxpreps.com/athlete/nalin-jha/3nQc9U_mEeS00gAmVebEWg/gendersport/tennis-stats.htm
+    $ICON$: tennis-ball
+    $BLURB$: I enjoy playing tennis at the varsity level. I have participated in two state championship teams, and my career record is 20 wins and 8 losses. This year, I have been selected as the team captain.
