@@ -34,3 +34,8 @@ Projects:
     $URL$: http://www.maxpreps.com/athlete/nalin-jha/3nQc9U_mEeS00gAmVebEWg/gendersport/tennis-stats.htm
     $ICON$: trophy
     $BLURB$: I enjoy playing tennis at the varsity level. I have participated in two state championship teams, and my career record is 20 wins and 8 losses. This year, I have been selected as the team captain.
+  - $TITLE$: Capstone Project
+    $URL$: https://docs.google.com/document/d/1_eoWfOwBP9eP9r-4tTNMuxx80qCdulLHZNahFZE0ZAM/edit?usp=sharing
+    $ICON$: code
+    $BLURB$: This project involves the implementation of an artificial neural network that will learn to recognize handwritten digits. The artificial neural network implemented in this project will be expected to identify 10,000 handwritten digits at a 95% or greater success rate.
+
