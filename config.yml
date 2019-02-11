@@ -2,26 +2,26 @@ Personal:
   $FIRST$: Nalin
   $LAST$: Jha
   $TITLE$: Senior at North Cross School
-  $BIO$: I am a high school senior interested in Computer Science, Mathematics, Chess, and Robotics. I also enjoy playing soccer and tennis.
+  $BIO$: I am a high school senior interested in Computer Science, Mathematics, Robotics, and Chess. I also enjoy playing soccer and tennis.
   $LINKEDIN$: https://www.linkedin.com/in/nalin-j-47371510a/
   $EMAIL$: njha714@gmail.com
 Projects:
   - $TITLE$: Coding Club
-    $URL$: "https://willishallherald.wordpress.com/2018/04/12/coding-competes-uva/"
+    $URL$: https://willishallherald.wordpress.com/2018/04/12/coding-competes-uva/
     $ICON$: code
     $BLURB$: I founded the Coding Club at my high school. The team I recruited and captained placed 2nd in the Advanced Division of Code Quest in 2018 (Suffolk, VA location).
-  - $TITLE$: Chess 
-    $URL$: http://www.uschess.org/msa/MbrDtlMain.php?16028844
+  - $TITLE$: Chess
+    $URL$: http://www.roanokechess.com/2017_Virginia_State_Championship.php
     $ICON$: trophy
-    $BLURB$: "I am proud member of the Roanoke Chess club and enjoy working with our local National Master Mr. Russell Potter. I have won the following tournaments: 2016 Maggie L. Walker Summer Scholastic, 2016 Star City Challenge 2017 VA Commonwealth Games, 2017 Virginia Closed Amateur State Championship"
+    $BLURB$: I am proud member of the Roanoke Chess club and enjoy working with our local National Master Mr. Russell Potter. At my peak, I was ranked in the top 3% of all players under the age of 21 in the United States. In 2017, I was the Virginia State Amateur Champion, and I have placed 1st in 5 of my 14 tournaments.
   - $TITLE$: Educational YouTube Channel
     $URL$: https://www.youtube.com/channel/UCjhlL4txLUhArG0aVXY38Qg
     $ICON$: youtube-play
-    $BLURB$: "I make YouTube videos covering some of the concepts that I thought would be useful for my fellow high schoolers."
+    $BLURB$: I make YouTube videos covering some of the concepts that I thought would be useful for my fellow high schoolers.
   - $TITLE$: Robotics Club
     $URL$: https://www.youtube.com/watch?v=Ny3k8LFInko&feature=youtu.be
     $ICON$: android
-    $BLURB$: I am the lead programmer of my school's robotics team. I use the Java programming language to integrate sensor data with robotic motion. In 2018, my team placed 5th overall and was seeded 4th in the semifinals playoffs. In 2019, we placed 4th overall and managed to secure a 3rd place seeding in the playoffs.
+    $BLURB$: I am the lead programmer of my school's robotics team. I use the Java programming language to integrate sensor data with robotic motion. In 2018, my team placed 5th overall and was seeded 4th in the semifinals playoffs. In 2019, we placed 4th overall and managed to secure a 3rd place seeding in the playoffs. (https://www.instagram.com/p/Bs81bj_lKZT/)
   - $TITLE$: Hour of Code
     $URL$: https://www.instagram.com/p/BqufhPJF0w7/
     $ICON$: code
@@ -38,4 +38,3 @@ Projects:
     $URL$: https://docs.google.com/document/d/1_eoWfOwBP9eP9r-4tTNMuxx80qCdulLHZNahFZE0ZAM/edit?usp=sharing
     $ICON$: code
     $BLURB$: This project involves the implementation of an artificial neural network that will learn to recognize handwritten digits. The artificial neural network implemented in this project will be expected to identify 10,000 handwritten digits at a 95% or greater success rate.
-
