@@ -1,10 +1,10 @@
 Personal:
   $FIRST$: Nalin
   $LAST$: Jha
-  $TITLE$: Senior at North Cross School
-  $BIO$: I am a high school senior interested in Computer Science, Mathematics, Robotics, and Chess. I also enjoy playing soccer and tennis.
+  $TITLE$: Student at the University of Virginia
+  $BIO$: I am interested in Computer Science, Mathematics, Robotics, and Chess. I also enjoy playing soccer and tennis.
   $LINKEDIN$: https://willishallherald.wordpress.com/2018/01/29/academic-stars-shine-nalin-jha/
-  $EMAIL$: njha714@gmail.com
+  $EMAIL$: nj2ch@virginia.edu
 Projects:
   - $TITLE$: Coding Club
     $URL$: https://willishallherald.wordpress.com/2018/04/12/coding-competes-uva/
@@ -17,7 +17,7 @@ Projects:
   - $TITLE$: Educational YouTube Channel
     $URL$: https://www.youtube.com/channel/UCjhlL4txLUhArG0aVXY38Qg
     $ICON$: youtube-play
-    $BLURB$: I make YouTube videos covering some of the concepts that I thought would be useful for my fellow high schoolers.
+    $BLURB$: I make YouTube videos covering some of the concepts that I thought would be useful for anyone interested in Computer Science.
   - $TITLE$: Robotics Club
     $URL$: https://www.youtube.com/watch?v=Ny3k8LFInko&feature=youtu.be
     $ICON$: android
